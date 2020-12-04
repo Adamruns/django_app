@@ -1,4 +1,5 @@
 import django_heroku
+import os
 """
 Django settings for mysite project.
 
